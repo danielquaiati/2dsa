@@ -6,7 +6,7 @@
  ┃ ┣ 📜posts.php
  ┃ ┗ 📜profile.php
  ┣ 📂apoio
- ┃ ┗ 📜📜git.txt
+ ┃ ┗ 📜git.txt
  ┣ 📂assets
  ┃ ┣ 📂css
  ┃ ┃ ┗ 📜style.css
