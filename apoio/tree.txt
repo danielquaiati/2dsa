@@ -1,0 +1,30 @@
+📦2dsa
+ ┣ 📂admin
+ ┃ ┣ 📜index.php
+ ┃ ┣ 📜manage_posts.php
+ ┃ ┣ 📜manage_users.php
+ ┃ ┣ 📜posts.php
+ ┃ ┗ 📜profile.php
+ ┣ 📂apoio
+ ┃ ┗ 📜📜git.txt
+ ┣ 📂assets
+ ┃ ┣ 📂css
+ ┃ ┃ ┗ 📜style.css
+ ┃ ┣ 📂js
+ ┃ ┃ ┗ 📜main.js
+ ┃ ┗ 📂uploads
+ ┣ 📂geral
+ ┃ ┣ 📜login.php
+ ┃ ┣ 📜logout.php
+ ┃ ┣ 📜register.php
+ ┃ ┗ 📜single_post.php
+ ┣ 📂includes
+ ┃ ┣ 📜check_login.php
+ ┃ ┣ 📜config.php
+ ┃ ┣ 📜database.php
+ ┃ ┗ 📜profile.php
+ ┣ 📂users
+ ┃ ┣ 📜index.php
+ ┃ ┣ 📜my_posts.php
+ ┃ ┗ 📜profile.php
+ ┗ 📜index.php
